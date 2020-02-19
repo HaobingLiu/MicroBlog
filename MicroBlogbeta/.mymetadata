@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MicroBlogbeta"
+  id="myeclipse.1470473337583"
+  context-root="/MicroBlogbeta"
+  j2ee-spec="5.0"
+  archive="MicroBlogbeta.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
